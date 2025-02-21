@@ -1,6 +1,6 @@
-Please isnatll EC2 inistance with ubuntu and then install docker and docker compose.
+**Please isnatll EC2 inistance with ubuntu and then install docker and docker compose.
 
-https://docs.docker.com/compose/install/linux/
+https://docs.docker.com/compose/install/linux/**
 
 If install docker and compose Please follow the below instruction in your AWS instance .
 
@@ -23,4 +23,8 @@ ls
 history
 docker run -d mysql:latest
 docker compose up --build -d
+
+* **AWS Instance Inbound Rules : You need to allow 5000 ports .
+**
+* Now Please check https://IP:5000
 
