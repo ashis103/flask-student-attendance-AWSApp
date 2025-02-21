@@ -1,5 +1,7 @@
 **Please isnatll EC2 inistance with ubuntu and then install docker and docker compose.
 
+copy all text to you notepad ....
+
 https://docs.docker.com/compose/install/linux/**
 
 If install docker and compose Please follow the below instruction in your AWS instance .
