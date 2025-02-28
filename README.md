@@ -9,9 +9,9 @@ If install docker and compose Please follow the below instruction in your AWS in
 sudo service docker status
 dcoker ps -a
 dcoker ps
-docker -ps
+
 docker run hello-world
-docker -ps
+
 history
 systemctl enable docker
 docker ps -a
